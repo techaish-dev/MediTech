@@ -1,0 +1,22 @@
+Requirements:
+- VS Code ( Python and MongoDB Extension Installed)
+- Mongodb Application
+-Required Python Packages(commands to install them):
+pip install tk
+pip install pymongo
+pip install tkcalendar
+pip install Pillow
+
+
+
+
+Steps For the Application to run:
+ - Extract the zip file
+1- First Open Code.py file in the VS code 
+2- Connect the MongoDB Extension to mongoDb application
+3- Import All the Meditech System json Files in MongoDB APPlication that is Test Data 
+4- Change the Path of Logo with real path of MediTech-Logo.png. For this you can find this below line in Code.py file and change it.
+
+# Load and resize the logo image
+    logo_path = "C:/Users/Desktop/MediTech/MediTech-Logo.png"
+5- The Meditech will be Working Perfectly

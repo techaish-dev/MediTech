@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "65e088bb1483f912143bbbdf"
+  },
+  "patient_id": {
+    "$oid": "65e088bb1483f912143bbbd9"
+  },
+  "doctor_id": {
+    "$oid": "65e088bb1483f912143bbbdb"
+  },
+  "datetime": {
+    "$date": "2024-02-29T18:38:03.540Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65e4c8c311eda534027233c3"
+  },
+  "patient_id": {
+    "$oid": "65e088bb1483f912143bbbd9"
+  },
+  "doctor_id": {
+    "$oid": "65e09f600c4d07884f035f5a"
+  },
+  "datetime": {
+    "$date": "2024-03-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65e9a0609678de57f45f5427"
+  },
+  "patient_id": {
+    "$oid": "65e99bb19678de57f45f5417"
+  },
+  "doctor_id": {
+    "$oid": "65e088bb1483f912143bbbdc"
+  },
+  "datetime": {
+    "$date": "2024-03-07T00:00:00.000Z"
+  }
+}]

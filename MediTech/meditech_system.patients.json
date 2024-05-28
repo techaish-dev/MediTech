@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "65e088bb1483f912143bbbd9"
+  },
+  "name": "John Doe",
+  "age": 35,
+  "gender": "Male",
+  "address": "123 Main St"
+},
+{
+  "_id": {
+    "$oid": "65e088bb1483f912143bbbda"
+  },
+  "name": "Jane Smith",
+  "age": 28,
+  "gender": "Female",
+  "address": "456 Elm St"
+},
+{
+  "_id": {
+    "$oid": "65e476376574a5cd0cbb4883"
+  },
+  "name": "Sahil",
+  "age": 28,
+  "gender": "Male",
+  "address": "Sydney, Australia"
+},
+{
+  "_id": {
+    "$oid": "65e4df5a94dd4af423397462"
+  },
+  "name": "Ahmad Raza",
+  "age": "19",
+  "gender": "Male",
+  "address": "12 street , London"
+},
+{
+  "_id": {
+    "$oid": "65e99b5d9678de57f45f5415"
+  },
+  "name": "Jane Smith",
+  "age": 45,
+  "gender": "Female",
+  "address": "456 Elm St"
+},
+{
+  "_id": {
+    "$oid": "65e99b899678de57f45f5416"
+  },
+  "name": "Michael Johnson",
+  "age": 28,
+  "gender": "Male",
+  "address": "789 Oak St"
+},
+{
+  "_id": {
+    "$oid": "65e99bb19678de57f45f5417"
+  },
+  "name": "Emily Williams",
+  "age": 50,
+  "gender": "Female",
+  "address": "987 Pine St"
+}]

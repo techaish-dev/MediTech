@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "65e088bb1483f912143bbbdc"
+  },
+  "name": "Dr. Johnson",
+  "specialty": "Pediatrics",
+  "contact": "555-5678"
+},
+{
+  "_id": {
+    "$oid": "65e09f600c4d07884f035f5a"
+  },
+  "name": "Dr. Kashif",
+  "specialty": "Neuro Surgeon",
+  "contact": "+12345677988"
+},
+{
+  "_id": {
+    "$oid": "65e99ce79678de57f45f5418"
+  },
+  "name": "Dr. Sarah Lee",
+  "specialty": "Dermatology",
+  "contact": "999-1234"
+},
+{
+  "_id": {
+    "$oid": "65e99cfc9678de57f45f5419"
+  },
+  "name": "Dr. David Chen",
+  "specialty": "Cardiology",
+  "contact": "987-6543"
+},
+{
+  "_id": {
+    "$oid": "65e99d0f9678de57f45f541a"
+  },
+  "name": "Dr. Amanda Brown",
+  "specialty": "Oncology",
+  "contact": "456-7890"
+},
+{
+  "_id": {
+    "$oid": "65e99d399678de57f45f541b"
+  },
+  "name": "Dr. Mohammad Khan",
+  "specialty": "Orthopedics",
+  "contact": "111-2222"
+},
+{
+  "_id": {
+    "$oid": "65e99d4e9678de57f45f541c"
+  },
+  "name": "Dr. Laura Rodriguez",
+  "specialty": "Obstetrics and Gynecology",
+  "contact": "333-4444"
+},
+{
+  "_id": {
+    "$oid": "65e99d649678de57f45f541d"
+  },
+  "name": "Dr. Christopher Martinez",
+  "specialty": "Internal Medicine",
+  "contact": "555-6666"
+},
+{
+  "_id": {
+    "$oid": "65e99d799678de57f45f541e"
+  },
+  "name": "Dr. Emily Nguyen",
+  "specialty": "Pediatric Cardiology",
+  "contact": "777-8888"
+},
+{
+  "_id": {
+    "$oid": "65e99d8f9678de57f45f541f"
+  },
+  "name": "Dr. Daniel Kim",
+  "specialty": "Gastroenterology",
+  "contact": "999-0000"
+}]

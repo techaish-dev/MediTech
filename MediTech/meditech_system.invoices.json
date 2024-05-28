@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "65e088bb1483f912143bbbe0"
+  },
+  "patient_id": {
+    "$oid": "65e088bb1483f912143bbbd9"
+  },
+  "services_rendered": {
+    "consultation": 100,
+    "tests": 200
+  },
+  "total_cost": 300,
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "65e0e6affbee7eb47801310f"
+  },
+  "patient_id": {
+    "$oid": "65e088bb1483f912143bbbe0"
+  },
+  "services_rendered": {
+    "Consultation": 50,
+    "X-ray": 100,
+    "Blood Test": 80
+  },
+  "total_cost": 230,
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "65e9a2589678de57f45f5428"
+  },
+  "patient_id": {
+    "$oid": "65e088bb1483f912143bbbd9"
+  },
+  "services_rendered": {
+    "X-ray": 30,
+    "Blood Test": 40,
+    "Pain Medication": 20,
+    "Topical Treatment": 15,
+    "Blood Pressure Medication": 25,
+    "Consultation Fee": 50
+  },
+  "total_cost": 180,
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "65e9a26a9678de57f45f5429"
+  },
+  "patient_id": {
+    "$oid": "65e4df5a94dd4af423397462"
+  },
+  "services_rendered": {
+    "Appendicitis Surgery": 200,
+    "Topical Treatment": 15,
+    "Chemotherapy Treatment": 150,
+    "Fractured Arm Treatment": 100,
+    "Labor Admission": 180
+  },
+  "total_cost": 645,
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "65e9a2819678de57f45f542a"
+  },
+  "patient_id": {
+    "$oid": "65e4dfc894dd4af423397463"
+  },
+  "services_rendered": {
+    "Fever Treatment": 10
+  },
+  "total_cost": 10,
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "65e9a28f9678de57f45f542b"
+  },
+  "patient_id": {
+    "$oid": "65e476376574a5cd0cbb4883"
+  },
+  "services_rendered": {
+    "Diabetes Blood Test": 30
+  },
+  "total_cost": 30,
+  "status": "Pending"
+}]

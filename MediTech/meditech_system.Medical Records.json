@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "65e4daf5c56c6f7157dd1e3d"
+  },
+  "date": "2023-05-15",
+  "doctor": "Kashif",
+  "notes": "Patient complained of back pain. Prescribed pain medication.",
+  "disease": "Pain",
+  "patient_id": {
+    "$oid": "65e4d231518686bd72ca7c80"
+  }
+},
+{
+  "_id": {
+    "$oid": "65e4e950157a5fe2af21b205"
+  },
+  "date": "2023-07-10",
+  "doctor": "Dr. Lee",
+  "notes": "Patient underwent surgery for appendicitis. Recovering well.",
+  "disease": "Appendicitis",
+  "patient_id": {
+    "$oid": "65e4df5a94dd4af423397462"
+  }
+},
+{
+  "_id": {
+    "$oid": "65e4ee36cd548c1b3e65f53c"
+  },
+  "date": "2024-03-04",
+  "doctor": "Dr. Tariq",
+  "notes": "Patient had a fever and sore throat. Advised rest and fluids.",
+  "disease": "fever",
+  "patient_id": {
+    "$oid": "65e4dfc894dd4af423397463"
+  }
+},
+{
+  "_id": {
+    "$oid": "65e99eb39678de57f45f5420"
+  },
+  "date": "2023-08-20",
+  "doctor": "Dr. Patel",
+  "notes": "Patient presented with symptoms of food poisoning. Advised to stay hydrated and prescribed anti-nausea medication.",
+  "disease": "Food poisoning",
+  "patient_id": {
+    "$oid": "65e99bb19678de57f45f5417"
+  }
+},
+{
+  "_id": {
+    "$oid": "65e99f399678de57f45f5421"
+  },
+  "date": "2023-10-15",
+  "doctor": "Dr. Sarah Lee",
+  "notes": "Patient presented with severe acne. Prescribed topical treatment and advised skincare routine.",
+  "disease": "Skin Disease",
+  "patient_id": {
+    "$oid": "65e99b899678de57f45f5416"
+  }
+},
+{
+  "_id": {
+    "$oid": "65e99f5e9678de57f45f5422"
+  },
+  "date": "2023-11-03",
+  "doctor": "Dr. David Chen",
+  "notes": "Patient diagnosed with hypertension. Prescribed blood pressure medication and advised lifestyle changes.",
+  "disease": "Hypertension",
+  "patient_id": {
+    "$oid": "65e99b5d9678de57f45f5415"
+  }
+},
+{
+  "_id": {
+    "$oid": "65e99f7d9678de57f45f5423"
+  },
+  "date": "2023-12-10",
+  "doctor": "Dr. Amanda Brown",
+  "notes": "Patient diagnosed with breast cancer. Scheduled for chemotherapy treatment.",
+  "disease": "Breast Cancer",
+  "patient_id": {
+    "$oid": "65e99b5d9678de57f45f5415"
+  }
+},
+{
+  "_id": {
+    "$oid": "65e99f9e9678de57f45f5424"
+  },
+  "date": "2024-01-20",
+  "doctor": "Dr. Mohammad Khan",
+  "notes": "Patient presented with a fractured arm. Applied cast and scheduled follow-up for removal.",
+  "disease": "Fractured Arm",
+  "patient_id": {
+    "$oid": "65e4df5a94dd4af423397462"
+  }
+},
+{
+  "_id": {
+    "$oid": "65e99fbd9678de57f45f5425"
+  },
+  "date": "2024-02-05",
+  "doctor": "Dr. Laura Rodriguez",
+  "notes": "Pregnant patient in third trimester presented with signs of labor. Admitted to maternity ward.",
+  "disease": "Labor",
+  "patient_id": {
+    "$oid": "65e4df5a94dd4af423397462"
+  }
+},
+{
+  "_id": {
+    "$oid": "65e99ffe9678de57f45f5426"
+  },
+  "date": "2024-03-15",
+  "doctor": "Dr. Christopher Martinez",
+  "notes": "Patient presented with symptoms of diabetes. Ordered blood tests and referred to endocrinologist.",
+  "disease": "Diabetes",
+  "patient_id": {
+    "$oid": "65e476376574a5cd0cbb4883"
+  }
+}]

@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "65e088bb1483f912143bbbdd"
+  },
+  "name": "Nurse Kelly",
+  "role": "Registered Nurse",
+  "contact": "555-9876"
+},
+{
+  "_id": {
+    "$oid": "65e088bb1483f912143bbbde"
+  },
+  "name": "Nurse Patel",
+  "role": "Licensed Practical Nurse",
+  "contact": "555-5432"
+},
+{
+  "_id": {
+    "$oid": "65e0a14dbdcf52524969e4e5"
+  },
+  "name": "Ayesha",
+  "role": "Nurse",
+  "contact": "08457589493"
+},
+{
+  "_id": {
+    "$oid": "65e9a412bc9db6a66ea2667c"
+  },
+  "name": "Nurse Jessica",
+  "role": "Registered Nurse",
+  "contact": "555-1234"
+},
+{
+  "_id": {
+    "$oid": "65e9a426bc9db6a66ea2667d"
+  },
+  "name": "Nurse Emily",
+  "role": "Licensed Practical Nurse",
+  "contact": "555-5678"
+},
+{
+  "_id": {
+    "$oid": "65e9a443bc9db6a66ea2667e"
+  },
+  "name": "Nurse Amanda",
+  "role": "Nurse",
+  "contact": "555-9101"
+},
+{
+  "_id": {
+    "$oid": "65e9a459bc9db6a66ea2667f"
+  },
+  "name": "Dr. Smith's Secretary",
+  "role": "Secretary",
+  "contact": "555-1111"
+},
+{
+  "_id": {
+    "$oid": "65e9a46cbc9db6a66ea26680"
+  },
+  "name": "Medical Assistant Joe",
+  "role": "Medical Assistant",
+  "contact": "555-2222"
+},
+{
+  "_id": {
+    "$oid": "65e9a491bc9db6a66ea26681"
+  },
+  "name": "Pharmacist Lisa",
+  "role": "Pharmacist",
+  "contact": "555-3333"
+}]
