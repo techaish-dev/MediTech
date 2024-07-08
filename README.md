@@ -21,13 +21,16 @@ The system's user-friendly interface enables healthcare providers and administra
 MediTech's robust reporting capabilities empower healthcare facilities to analyze key metrics, identify trends, and make informed decisions to optimize operations and improve patient care. By centralizing healthcare data and automating administrative tasks, MediTech streamlines workflow, reduces errors, and enhances overall efficiency in healthcare management.
 
 ## Requirements:
-- VS Code with Python and MongoDB extensions installed
-- MongoDB Application
+- ## Requirements:
+- [VS Code](https://code.visualstudio.com/download) with Python and MongoDB extensions installed
+- [MongoDB Compass](https://www.mongodb.com/try/download/compass)
 - Required Python Packages (install with commands):
+```python
 pip install tk
 pip install pymongo
 pip install tkcalendar
 pip install Pillow
+```
 
 ## Steps For the Application to Run:
 1. Extract the zip file.
